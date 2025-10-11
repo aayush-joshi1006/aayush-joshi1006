@@ -48,7 +48,7 @@
 |----------|--------------|------|
 | 🧠 [**CreatorHub**](https://github.com/aayush-joshi1006/creatorhub) | Next.js + MongoDB platform for creators to share & manage content | `Next.js`, `MongoDB`, `Tailwind` |
 | 🔐 [**ShoppyGlobe**](https://github.com/aayush-joshi1006/e-commerce) | ShoppyGlobe is a full-stack modern e-commerce web application built with the MERN stack. It offers a seamless shopping experience with product browsing, user authentication, cart management, checkout, and more. | `React`, `Tailwind`, `MongoDB`, `Node.js`, `Express.js` |
-| ⚡ [**Stackflow**](https://github.com/aayush-joshi1006/stackflow) | Clean React-based starter for UI and component structure | `React`, `Vite`, `Tailwind` |
+| ⚡ [**ReelsPro**](https://github.com/aayush-joshi1006/reelspro) | Clean React-based starter for UI and component structure | `Next.js`, `TypeScript`, `nextauth`, `cloudinary` |
 
 > Explore more projects on my [GitHub Repositories →](https://github.com/aayush-joshi1006?tab=repositories)
 
